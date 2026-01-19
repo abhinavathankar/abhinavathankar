@@ -66,4 +66,4 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/abhinavathankar/)
-[![Instagram](https://img.shields.io/badge/https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/doublecheesehamburger/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/doublecheesehamburger/)
