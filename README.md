@@ -11,6 +11,19 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 
 ---
 
+## 💼 Professional Experience
+
+**Consultant - Product | Yext**
+*Oct 2023 - Present*
+- Led **0-1 digital product strategy** for an $8M US enterprise client portfolio.
+- Launched an **AI-powered content generator** used by 300+ brands to improve SEO and brand visibility.
+
+**Associate Consultant - Product | HighRadius**
+*June 2020 - Oct 2023*
+- Led the **0-1 launch of 30+ RPA agents**, saving clients over 8 FTEs of time annually.
+- Designed a configuration UI for an AR platform that reduced configuration time by **25%**.
+
+---
 ## 🛠️ Technical Skills
 
 | Category | Skills |
@@ -41,20 +54,6 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 *A competitive analysis of user journeys across Myntra, H&M, and Zara to identify friction points.*
 - **Tools:** Figma, Funnel Analysis, Root Cause Analysis (RCA).
 - **Outcome:** Designed a custom prototype estimated to reduce time-to-purchase by 20% by optimizing mobile onboarding and checkout flows.
-
----
-
-## 💼 Professional Experience
-
-**Consultant - Product | Yext**
-*Oct 2023 - Present*
-- Led **0-1 digital product strategy** for an $8M US enterprise client portfolio.
-- Launched an **AI-powered content generator** used by 300+ brands to improve SEO and brand visibility.
-
-**Associate Consultant - Product | HighRadius**
-*June 2020 - Oct 2023*
-- Led the **0-1 launch of 30+ RPA agents**, saving clients over 8 FTEs of time annually.
-- Designed a configuration UI for an AR platform that reduced configuration time by **25%**.
 
 ---
 
