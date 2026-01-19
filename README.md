@@ -7,7 +7,7 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 - 🔭 **Currently working on:** AI-powered agents and RAG applications.
 - 🎓 **Education:** MBA at [IIM Kozhikode](https://www.iimk.ac.in/) | B.Tech in CSE at [KIIT](https://kiit.ac.in/).
 - 💼 **Experience:** Consultant - Product at **Yext** and Associate Consultant - Product at **HighRadius**.
-- 🌱 **Learning:** Advanced Prompt Engineering & Multi-modal AI delivery.
+- 🌱 **Learning:** Everthing AI and Product Growth.
 
 ---
 
