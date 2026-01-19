@@ -1,6 +1,6 @@
 # Hi, I'm Abhinav Athankar! 👋
 
-> **Product Manager | AI & SaaS Enthusiast | MBA at IIM Kozhikode**
+> **Product Manager | AI & SaaS Enthusiast | MBA@IIM Kozhikode | Engineering@KIIT**
 
 I am a Product Manager with over 5 years of experience driving 0-1 launches and scaling Enterprise SaaS platforms. My expertise lies in bridging the gap between business strategy and technical execution to build AI-driven solutions that solve real user pain points.
 
