@@ -4,7 +4,7 @@
 
 I am a Product Manager with over 5 years of experience driving 0-1 launches and scaling Enterprise SaaS platforms. My expertise lies in bridging the gap between business strategy and technical execution to build AI-driven solutions that solve real user pain points.
 
-- 🔭 **Currently working on:** AI-powered agents and RAG applications.
+- 🔭 **Currently working at:** Yext, partnering with global brands to scale their outreach and grow their customer base .
 - 🎓 **Education:** MBA at [IIM Kozhikode](https://www.iimk.ac.in/) | B.Tech in CSE at [KIIT](https://kiit.ac.in/).
 - 💼 **Experience:** Consultant - Product at **Yext** and Associate Consultant - Product at **HighRadius**.
 - 🌱 **Learning:** Everthing AI and Product Growth.
