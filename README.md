@@ -16,7 +16,7 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 | Category | Skills |
 |----------|--------|
 | **Languages** | Python, Java, SQL, HTML/CSS |
-| **AI & GenAI** | Prompt Engineering (Gemini), RAG, Vibe Coding, APIs (Google Maps, AirLab) |
+| **AI & GenAI** | Prompt Engineering (Gemini), RAG, Vibe Coding, APIs |
 | **Product Tools** | Jira, Asana, Figma, Tableau, Salesforce, Smartsheet |
 | **Core Competencies** | PRD/BRD, User Journey Mapping, Rapid Prototyping, Funnel Analysis |
 
@@ -49,14 +49,12 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 **Consultant - Product | Yext**
 *Oct 2023 - Present*
 - Led **0-1 digital product strategy** for an $8M US enterprise client portfolio.
-- Launched an **AI-powered content creator** used by 300+ brands to improve SEO and brand visibility.
-- Co-developed a **no-code 'Drag & Drop' page builder**, significantly reducing development overhead.
+- Launched an **AI-powered content generator** used by 300+ brands to improve SEO and brand visibility.
 
 **Associate Consultant - Product | HighRadius**
 *June 2020 - Oct 2023*
 - Led the **0-1 launch of 30+ RPA agents**, saving clients over 8 FTEs of time annually.
 - Designed a configuration UI for an AR platform that reduced configuration time by **25%**.
-- Established a new Product Consulting vertical and onboarded **60+ associates**.
 
 ---
 
