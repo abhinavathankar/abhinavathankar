@@ -60,6 +60,7 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 ## 📜 Certifications
 - **Certified Scrum Master® (CSM)**
 - **Google Project Management: Professional Certificate**
+- **Certified Customer Success Manager (CCSM - L1)**
 
 ---
 
