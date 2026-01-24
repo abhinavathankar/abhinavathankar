@@ -15,7 +15,7 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 
 **Consultant - Product | Yext**
 *Oct 2023 - Present*
-- Led **0-1 digital product strategy** for an $8M US enterprise client portfolio.
+- Led **0-1 digital product strategy** for enterprise products.
 - Launched an **AI-powered content generator** used by 300+ brands to improve SEO and brand visibility.
 
 **Associate Consultant - Product | HighRadius**
