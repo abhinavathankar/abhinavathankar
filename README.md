@@ -28,7 +28,7 @@ I am a Product Manager with over 5 years of experience driving 0-1 launches and 
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Python, Java, SQL, HTML/CSS |
+| **Languages** | Python, SQL, HTML/CSS |
 | **AI & GenAI** | Prompt Engineering (Gemini), RAG, Vibe Coding, APIs |
 | **Product Tools** | Jira, Asana, Figma, Tableau, Salesforce, Smartsheet |
 | **Core Competencies** | PRD/BRD, User Journey Mapping, Rapid Prototyping, Funnel Analysis |
